@@ -27,6 +27,7 @@ markdown: kramdown
 theme: minima
 header_pages:
   - about.md
+  - faq.md
   - fall-2019-ucas.md
   - applications.md
 plugins:
