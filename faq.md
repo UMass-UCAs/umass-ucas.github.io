@@ -40,8 +40,9 @@ __A:__ Unfortunately, since instructors shift every semester for many courses, i
 
 <br/>
 
-__Q: How do I apply?__ <br/>
-__A:__ We generally release applications around the mid-semester date for the following semester. When applications are live, they can be found [here](https://umass-ucas.github.io/uca-app/). 
+__Q: How do I apply? When will I know whether I've been selected?__ <br/>
+__A:__ We generally release applications around the mid-semester date for the following semester. When applications are live, they can be found [here](https://umass-ucas.github.io/uca-app/). For Spring 2020, we plan to release decisions by late November/early December. 
+
 
 <br/>
 
