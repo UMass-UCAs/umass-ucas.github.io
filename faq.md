@@ -3,6 +3,12 @@ layout: page
 title: FAQ
 permalink: /faq/
 ---
+<script src="https://unpkg.com/vanilla-back-to-top@7.2.0/dist/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  backgroundColor: 'rgb(255, 82, 82)',
+  textColor: '#fff'
+})</script>
 
 __Q: What *is* a UCA?__ <br/>
 __A:__ UCA stands for **U**ndergraduate **C**ourse **A**ssistant, and is one of many student worker positions within CICS. A UCA is a student who have taken and done well in particular courses (or have sufficient expertise in a field), and was selected to assist professors and TAs in administering and/or developing the course they took.
@@ -21,7 +27,7 @@ __A:__ This depends on the needs of the instructor and course structure. Here ar
 
 
 __Q: What are the job expectations for UCAs?__<br/>
-__A:__ UCAs are expected to work on average of 5 hours per week on course administration/development tasks as assigned by the instructor or TA, and attend orientation and periodic training sessions/check-ins. In addition, UCAs should regularly communicate with their assigned professor regarding course logistics, grading, and/or any duties assigned.
+__A:__ UCAs are expected to work on course administration/development tasks as assigned by the instructor or TA, and attend orientation and periodic training sessions/check-ins. In addition, UCAs should regularly communicate with their assigned professor regarding course logistics, grading, and/or any duties assigned.
 
 <br/>
 
@@ -36,7 +42,7 @@ __A:__ UCAs are paid with the expectation that the professor or TA gives out tas
 <br/>
 
 __Q: Can I know what the duties of each class is before filling out my preferences?__ <br/>
-__A:__ Unfortunately, since instructors shift every semester for many courses, it's difficult for us to provide any information on how a particular instructor will run a course and what the expected role of the UCAs will be. Some professors prefer that their UCAs stick to grading only, while others have UCAs hold office hours, or work on assignment infrastructure. If you have specific questions about a specific class, you can always email the UCA coordinators, talk to the course instructor, or a current UCA for that class. 
+__A:__ Unfortunately, since instructors shift every semester for many courses, it's difficult for us to provide any general information on how a particular instructor will run a course and what the expected role of the UCAs will be. Some professors prefer that their UCAs stick to grading only, while others have UCAs hold office hours, or work on assignment infrastructure. If you have specific questions about a specific class, you can always email the UCA coordinators, talk to the course instructor, or a current UCA for that class. 
 
 <br/>
 
