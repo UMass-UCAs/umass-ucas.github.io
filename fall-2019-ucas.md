@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Fall 2019 UCAs
-permalink: /fall-19-ucas/
+title: Fall 2020 UCAs
+permalink: /current-ucas/
 ---
 <script src="https://unpkg.com/vanilla-back-to-top@7.2.0/dist/vanilla-back-to-top.min.js"></script>
 <script>addBackToTop({
@@ -11,10 +11,11 @@ permalink: /fall-19-ucas/
 })</script>
 
 # UCA Program Coordinators 
-- Emily Earl '20
 - Serena Chan '21
+- Jack Bachman '21 
+- Renos Zabounidis '22
 
-# UCAs
+<!-- # UCAs
 [100-level Courses](#100) | [200-level Courses](#200) | [300/400-level Courses](#300)
 
 #### <a name="100"></a>100-level Courses
@@ -472,4 +473,4 @@ permalink: /fall-19-ucas/
       <td>James Woglom</td>
    </tr>
    </tbody>
-</table>
+</table> -->

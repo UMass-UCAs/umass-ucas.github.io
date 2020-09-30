@@ -47,7 +47,7 @@ __A:__ Unfortunately, since instructors shift every semester for many courses, i
 <br/>
 
 __Q: How do I apply? When will I know whether I've been selected?__ <br/>
-__A:__ We generally release applications around the mid-semester date for the following semester. When applications are live, they can be found [here](https://umass-ucas.github.io/uca-app/). For Spring 2020, we plan to release decisions by late November/early December. 
+__A:__ We generally release applications around the mid-semester date for the following semester. When applications are live, they can be found [here](https://umass-ucas.github.io/uca-app/). For Spring 2021, we plan to release decisions by early-mid November, but due to the volatility of next semester this date may be moved later. 
 
 
 <br/>
@@ -58,4 +58,4 @@ __A:__ Share your wisdom! It would be really helpful for UCAs in the years after
 <br/>
 
 __Q: Who should I email if I have more questions?__ <br/>
-__A:__ You can reach out via email to the UCA coordinators, Emily (eearl at umass.edu) and Serena (tszkeiserena at umass.edu). 
+__A:__ You can reach out via email to the UCA coordinators, Serena (tszkeiserena at umass.edu), Jack (jbachman at umass.edu), and Renos (rzabounidis at umass.edu). 
